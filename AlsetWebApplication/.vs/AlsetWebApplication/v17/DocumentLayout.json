@@ -1,0 +1,589 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{502C45F4-2602-4D81-A912-52AE02C75A26}|AlsetWebApplication.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetwebapplication\\controllers\\magazinesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502C45F4-2602-4D81-A912-52AE02C75A26}|AlsetWebApplication.csproj|solutionrelative:controllers\\magazinesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502C45F4-2602-4D81-A912-52AE02C75A26}|AlsetWebApplication.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetwebapplication\\controllers\\researchersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502C45F4-2602-4D81-A912-52AE02C75A26}|AlsetWebApplication.csproj|solutionrelative:controllers\\researchersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C0439C-655D-4F10-B734-238C476013E8}|..\\AlsetLibrary\\AlsetLibrary.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetlibrary\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C0439C-655D-4F10-B734-238C476013E8}|..\\AlsetLibrary\\AlsetLibrary.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetlibrary\\researcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C0439C-655D-4F10-B734-238C476013E8}|..\\AlsetLibrary\\AlsetLibrary.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetlibrary\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6DC91C-3CA1-42FA-8116-DA141DE57C29}|..\\AlsetBlazorApp\\AlsetBlazorApp.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetblazorapp\\viewmodel\\subscriptionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6DC91C-3CA1-42FA-8116-DA141DE57C29}|..\\AlsetBlazorApp\\AlsetBlazorApp.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetblazorapp\\viewmodel\\magazineviewerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6DC91C-3CA1-42FA-8116-DA141DE57C29}|..\\AlsetBlazorApp\\AlsetBlazorApp.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetblazorapp\\viewmodel\\listresearcherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6DC91C-3CA1-42FA-8116-DA141DE57C29}|..\\AlsetBlazorApp\\AlsetBlazorApp.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetblazorapp\\services\\magazineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6DC91C-3CA1-42FA-8116-DA141DE57C29}|..\\AlsetBlazorApp\\AlsetBlazorApp.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetblazorapp\\services\\researcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6DC91C-3CA1-42FA-8116-DA141DE57C29}|..\\AlsetBlazorApp\\AlsetBlazorApp.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetblazorapp\\services\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6DC91C-3CA1-42FA-8116-DA141DE57C29}|..\\AlsetBlazorApp\\AlsetBlazorApp.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetblazorapp\\viewmodel\\uploadjornalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C0439C-655D-4F10-B734-238C476013E8}|..\\AlsetLibrary\\AlsetLibrary.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetlibrary\\configurations\\magazineconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C0439C-655D-4F10-B734-238C476013E8}|..\\AlsetLibrary\\AlsetLibrary.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetlibrary\\configurations\\researcherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C0439C-655D-4F10-B734-238C476013E8}|..\\AlsetLibrary\\AlsetLibrary.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetlibrary\\configurations\\subscriptionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C0439C-655D-4F10-B734-238C476013E8}|..\\AlsetLibrary\\AlsetLibrary.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetlibrary\\dto\\createsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C0439C-655D-4F10-B734-238C476013E8}|..\\AlsetLibrary\\AlsetLibrary.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetlibrary\\dto\\magazinerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C0439C-655D-4F10-B734-238C476013E8}|..\\AlsetLibrary\\AlsetLibrary.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetlibrary\\dto\\researcherrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C0439C-655D-4F10-B734-238C476013E8}|..\\AlsetLibrary\\AlsetLibrary.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetlibrary\\contosodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502C45F4-2602-4D81-A912-52AE02C75A26}|AlsetWebApplication.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetwebapplication\\controllers\\subscriptionsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502C45F4-2602-4D81-A912-52AE02C75A26}|AlsetWebApplication.csproj|solutionrelative:controllers\\subscriptionsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6DC91C-3CA1-42FA-8116-DA141DE57C29}|..\\AlsetBlazorApp\\AlsetBlazorApp.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetblazorapp\\pages\\publishjornal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6DC91C-3CA1-42FA-8116-DA141DE57C29}|..\\AlsetBlazorApp\\AlsetBlazorApp.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetblazorapp\\pages\\magazineviewer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6DC91C-3CA1-42FA-8116-DA141DE57C29}|..\\AlsetBlazorApp\\AlsetBlazorApp.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetblazorapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6DC91C-3CA1-42FA-8116-DA141DE57C29}|..\\AlsetBlazorApp\\AlsetBlazorApp.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetblazorapp\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6DC91C-3CA1-42FA-8116-DA141DE57C29}|..\\AlsetBlazorApp\\AlsetBlazorApp.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetblazorapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6DC91C-3CA1-42FA-8116-DA141DE57C29}|..\\AlsetBlazorApp\\AlsetBlazorApp.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetblazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C0439C-655D-4F10-B734-238C476013E8}|..\\AlsetLibrary\\AlsetLibrary.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetlibrary\\dto\\uploadjornal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edgar\\AppData\\Local\\SourceServer\\c30380535550ed4deb152f08301e053b8b4751f6623208ad2985574b709037b6\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edgar\\AppData\\Local\\SourceServer\\18c34df4faba99f2a27b487f1433ba2221910823c4e489b0befc0f14714230c8\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\TaskContinuation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502C45F4-2602-4D81-A912-52AE02C75A26}|AlsetWebApplication.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502C45F4-2602-4D81-A912-52AE02C75A26}|AlsetWebApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6DC91C-3CA1-42FA-8116-DA141DE57C29}|..\\AlsetBlazorApp\\AlsetBlazorApp.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetblazorapp\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502C45F4-2602-4D81-A912-52AE02C75A26}|AlsetWebApplication.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetwebapplication\\alsetwebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{502C45F4-2602-4D81-A912-52AE02C75A26}|AlsetWebApplication.csproj|solutionrelative:alsetwebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edgar\\AppData\\Local\\SourceServer\\b683f6fce6090aea16583eba97994ceebf2ba053ed173419caa2340ec77e11be\\src\\EFCore\\Extensions\\EntityFrameworkServiceCollectionExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C0439C-655D-4F10-B734-238C476013E8}|..\\AlsetLibrary\\AlsetLibrary.csproj|c:\\users\\edgar\\source\\repos\\tarea\\alsetlibrary\\alsetlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 186,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubscriptionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\ViewModel\\SubscriptionViewModel.cs",
+              "RelativeDocumentMoniker": "..\\AlsetBlazorApp\\ViewModel\\SubscriptionViewModel.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\ViewModel\\SubscriptionViewModel.cs",
+              "RelativeToolTip": "..\\AlsetBlazorApp\\ViewModel\\SubscriptionViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:28:21.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\Magazine.cs",
+              "RelativeDocumentMoniker": "..\\AlsetLibrary\\Magazine.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\Magazine.cs",
+              "RelativeToolTip": "..\\AlsetLibrary\\Magazine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:47:26.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Researcher.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\Researcher.cs",
+              "RelativeDocumentMoniker": "..\\AlsetLibrary\\Researcher.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\Researcher.cs",
+              "RelativeToolTip": "..\\AlsetLibrary\\Researcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:46:44.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\Subscription.cs",
+              "RelativeDocumentMoniker": "..\\AlsetLibrary\\Subscription.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\Subscription.cs",
+              "RelativeToolTip": "..\\AlsetLibrary\\Subscription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:03:27.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MagazinesApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetWebApplication\\Controllers\\MagazinesApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MagazinesApiController.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetWebApplication\\Controllers\\MagazinesApiController.cs",
+              "RelativeToolTip": "Controllers\\MagazinesApiController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAcwH0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:23:03.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResearchersApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetWebApplication\\Controllers\\ResearchersApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ResearchersApiController.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetWebApplication\\Controllers\\ResearchersApiController.cs",
+              "RelativeToolTip": "Controllers\\ResearchersApiController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwB0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:45:16.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MagazineViewerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\ViewModel\\MagazineViewerViewModel.cs",
+              "RelativeDocumentMoniker": "..\\AlsetBlazorApp\\ViewModel\\MagazineViewerViewModel.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\ViewModel\\MagazineViewerViewModel.cs",
+              "RelativeToolTip": "..\\AlsetBlazorApp\\ViewModel\\MagazineViewerViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:13:03.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListResearcherViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\ViewModel\\ListResearcherViewModel.cs",
+              "RelativeDocumentMoniker": "..\\AlsetBlazorApp\\ViewModel\\ListResearcherViewModel.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\ViewModel\\ListResearcherViewModel.cs",
+              "RelativeToolTip": "..\\AlsetBlazorApp\\ViewModel\\ListResearcherViewModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:24:17.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MagazineService.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Services\\MagazineService.cs",
+              "RelativeDocumentMoniker": "..\\AlsetBlazorApp\\Services\\MagazineService.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Services\\MagazineService.cs",
+              "RelativeToolTip": "..\\AlsetBlazorApp\\Services\\MagazineService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAlwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:30:35.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResearcherService.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Services\\ResearcherService.cs",
+              "RelativeDocumentMoniker": "..\\AlsetBlazorApp\\Services\\ResearcherService.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Services\\ResearcherService.cs",
+              "RelativeToolTip": "..\\AlsetBlazorApp\\Services\\ResearcherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:23:00.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubscriptionService.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Services\\SubscriptionService.cs",
+              "RelativeDocumentMoniker": "..\\AlsetBlazorApp\\Services\\SubscriptionService.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Services\\SubscriptionService.cs",
+              "RelativeToolTip": "..\\AlsetBlazorApp\\Services\\SubscriptionService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:05:48.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UploadJornalViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\ViewModel\\UploadJornalViewModel.cs",
+              "RelativeDocumentMoniker": "..\\AlsetBlazorApp\\ViewModel\\UploadJornalViewModel.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\ViewModel\\UploadJornalViewModel.cs",
+              "RelativeToolTip": "..\\AlsetBlazorApp\\ViewModel\\UploadJornalViewModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA7wBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:57:47.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MagazineConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\Configurations\\MagazineConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\AlsetLibrary\\Configurations\\MagazineConfiguration.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\Configurations\\MagazineConfiguration.cs",
+              "RelativeToolTip": "..\\AlsetLibrary\\Configurations\\MagazineConfiguration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:13:40.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResearcherConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\Configurations\\ResearcherConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\AlsetLibrary\\Configurations\\ResearcherConfiguration.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\Configurations\\ResearcherConfiguration.cs",
+              "RelativeToolTip": "..\\AlsetLibrary\\Configurations\\ResearcherConfiguration.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:20:29.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SubscriptionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\Configurations\\SubscriptionConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\AlsetLibrary\\Configurations\\SubscriptionConfiguration.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\Configurations\\SubscriptionConfiguration.cs",
+              "RelativeToolTip": "..\\AlsetLibrary\\Configurations\\SubscriptionConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:24:26.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\DTO\\CreateSubscription.cs",
+              "RelativeDocumentMoniker": "..\\AlsetLibrary\\DTO\\CreateSubscription.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\DTO\\CreateSubscription.cs",
+              "RelativeToolTip": "..\\AlsetLibrary\\DTO\\CreateSubscription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:57:53.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MagazineRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\DTO\\MagazineRecord.cs",
+              "RelativeDocumentMoniker": "..\\AlsetLibrary\\DTO\\MagazineRecord.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\DTO\\MagazineRecord.cs",
+              "RelativeToolTip": "..\\AlsetLibrary\\DTO\\MagazineRecord.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:49:50.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResearcherRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\DTO\\ResearcherRecord.cs",
+              "RelativeDocumentMoniker": "..\\AlsetLibrary\\DTO\\ResearcherRecord.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\DTO\\ResearcherRecord.cs",
+              "RelativeToolTip": "..\\AlsetLibrary\\DTO\\ResearcherRecord.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:48:59.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContosoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\ContosoDbContext.cs",
+              "RelativeDocumentMoniker": "..\\AlsetLibrary\\ContosoDbContext.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\ContosoDbContext.cs",
+              "RelativeToolTip": "..\\AlsetLibrary\\ContosoDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:28:33.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SubscriptionsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetWebApplication\\Controllers\\SubscriptionsApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubscriptionsApiController.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetWebApplication\\Controllers\\SubscriptionsApiController.cs",
+              "RelativeToolTip": "Controllers\\SubscriptionsApiController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwB4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:31:30.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PublishJornal.razor",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Pages\\PublishJornal.razor",
+              "RelativeDocumentMoniker": "..\\AlsetBlazorApp\\Pages\\PublishJornal.razor",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Pages\\PublishJornal.razor",
+              "RelativeToolTip": "..\\AlsetBlazorApp\\Pages\\PublishJornal.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T04:50:55.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MagazineViewer.razor",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Pages\\MagazineViewer.razor",
+              "RelativeDocumentMoniker": "..\\AlsetBlazorApp\\Pages\\MagazineViewer.razor",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Pages\\MagazineViewer.razor",
+              "RelativeToolTip": "..\\AlsetBlazorApp\\Pages\\MagazineViewer.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T10:56:17.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "..\\AlsetBlazorApp\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Pages\\Index.razor",
+              "RelativeToolTip": "..\\AlsetBlazorApp\\Pages\\Index.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T02:35:25.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\AlsetBlazorApp\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "..\\AlsetBlazorApp\\Pages\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAADNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T13:17:21.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "..\\AlsetBlazorApp\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "..\\AlsetBlazorApp\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T02:33:59.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AlsetBlazorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Program.cs",
+              "RelativeToolTip": "..\\AlsetBlazorApp\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:38:16.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UploadJornal.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\DTO\\UploadJornal.cs",
+              "RelativeDocumentMoniker": "..\\AlsetLibrary\\DTO\\UploadJornal.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\DTO\\UploadJornal.cs",
+              "RelativeToolTip": "..\\AlsetLibrary\\DTO\\UploadJornal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:16:53.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\AppData\\Local\\SourceServer\\c30380535550ed4deb152f08301e053b8b4751f6623208ad2985574b709037b6\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\c30380535550ed4deb152f08301e053b8b4751f6623208ad2985574b709037b6\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\Edgar\\AppData\\Local\\SourceServer\\c30380535550ed4deb152f08301e053b8b4751f6623208ad2985574b709037b6\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\c30380535550ed4deb152f08301e053b8b4751f6623208ad2985574b709037b6\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "ViewState": "AQIAABcBAAAAAAAAAAAkwCQBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:08:28.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TaskContinuation.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\AppData\\Local\\SourceServer\\18c34df4faba99f2a27b487f1433ba2221910823c4e489b0befc0f14714230c8\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\TaskContinuation.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\18c34df4faba99f2a27b487f1433ba2221910823c4e489b0befc0f14714230c8\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\TaskContinuation.cs",
+              "ToolTip": "C:\\Users\\Edgar\\AppData\\Local\\SourceServer\\18c34df4faba99f2a27b487f1433ba2221910823c4e489b0befc0f14714230c8\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\TaskContinuation.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\18c34df4faba99f2a27b487f1433ba2221910823c4e489b0befc0f14714230c8\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\TaskContinuation.cs",
+              "ViewState": "AQIAAKwBAAAAAAAAAAAkwLUBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:20:14.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetWebApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:38:03.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "..\\AlsetBlazorApp\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetBlazorApp\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "..\\AlsetBlazorApp\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T02:52:52.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AlsetWebApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetWebApplication\\AlsetWebApplication.csproj",
+              "RelativeDocumentMoniker": "AlsetWebApplication.csproj",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetWebApplication\\AlsetWebApplication.csproj",
+              "RelativeToolTip": "AlsetWebApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T19:39:02.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EntityFrameworkServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Edgar\\AppData\\Local\\SourceServer\\b683f6fce6090aea16583eba97994ceebf2ba053ed173419caa2340ec77e11be\\src\\EFCore\\Extensions\\EntityFrameworkServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\b683f6fce6090aea16583eba97994ceebf2ba053ed173419caa2340ec77e11be\\src\\EFCore\\Extensions\\EntityFrameworkServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Edgar\\AppData\\Local\\SourceServer\\b683f6fce6090aea16583eba97994ceebf2ba053ed173419caa2340ec77e11be\\src\\EFCore\\Extensions\\EntityFrameworkServiceCollectionExtensions.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\b683f6fce6090aea16583eba97994ceebf2ba053ed173419caa2340ec77e11be\\src\\EFCore\\Extensions\\EntityFrameworkServiceCollectionExtensions.cs",
+              "ViewState": "AQIAACAEAAAAAAAAAAAawC4EAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:39:25.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AlsetLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\AlsetLibrary.csproj",
+              "RelativeDocumentMoniker": "..\\AlsetLibrary\\AlsetLibrary.csproj",
+              "ToolTip": "C:\\Users\\Edgar\\source\\repos\\tarea\\AlsetLibrary\\AlsetLibrary.csproj",
+              "RelativeToolTip": "..\\AlsetLibrary\\AlsetLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T20:32:49.659Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

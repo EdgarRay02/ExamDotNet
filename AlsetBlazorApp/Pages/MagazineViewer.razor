@@ -1,0 +1,27 @@
+﻿@page "/Magazines/{Id:int}"
+@using AlsetBlazorApp.ViewModel
+<h3>MagazineViewer</h3>
+@if(ViewModel.Record != null)
+{
+    <object class="pdf"
+            data="@ViewModel.GetData(ViewModel.Record.FileUrl)"
+            width="800"
+            height="500">
+    </object>
+}
+
+
+
+@code {
+    [Parameter]
+    public int Id { get; set; } 
+
+    [Inject]
+    public MagazineViewerViewModel ViewModel { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        ViewModel.Id = this.Id;
+        await ViewModel.Load();
+    }
+}

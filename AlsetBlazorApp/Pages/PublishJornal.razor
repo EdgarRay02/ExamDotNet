@@ -1,0 +1,58 @@
+﻿@page "/Upload"
+@using AlsetBlazorApp.ViewModel
+<h3>PublishJornal</h3>
+<EditForm Model="ViewModel" OnSubmit="HandlerSubmit">
+    <div class="form-group">
+        <label class="class" for="name" > Name </label>
+        <InputText class="form-control" @bind-Value="ViewModel.Name" DisplayName="name"></InputText>
+    </div>
+    <div class="form-group">
+        <label class="class" for="lastName"> LastName </label>
+        <InputText class="form-control" @bind-Value="ViewModel.LastName" DisplayName="lastName"></InputText>
+    </div>
+    <div class="form-group">
+        <label class="class" for="email"> Email </label>
+        <InputText class="form-control" @bind-Value="ViewModel.Email" DisplayName="email"></InputText>
+    </div>
+    <div class="form-group">
+        <div><label>Title of the magazine</label></div>
+        <InputText class="form-control" @bind-Value="ViewModel.Title" / ></InputText>
+    </div>
+     <div class="form-group">
+        <div><label>Upload magazine in PDF</label></div>
+        <InputFile class="file-input" @bind-Value="ViewModel.FilePath" OnChange="LoadFiles" / ></InputFile>
+    </div>
+    <div>
+         <button class="btn btn-primary" type="submit">Upload</button>
+    </div>
+   
+</EditForm>
+
+@code {
+    [Inject]
+    public UploadJornalViewModel ViewModel { get; set; }
+
+    [Inject]
+    protected IWebHostEnvironment Environment { get; set; }
+   
+    protected async Task HandlerSubmit()
+    {
+        await ViewModel.Upload();
+    }
+    protected async void LoadFiles(InputFileChangeEventArgs e)
+        {
+            using var memorystream = new MemoryStream();
+            await e.File.OpenReadStream().CopyToAsync(memorystream);
+            string extension = ".pdf";
+
+            var path = Path.Combine(Environment.ContentRootPath,
+                        Environment.EnvironmentName, "unsafe_uploads", Path.ChangeExtension(
+            Path.GetRandomFileName(), extension));
+
+            ViewModel.FilePath = Path.GetFullPath(path);
+
+
+            using BinaryWriter br = new BinaryWriter(new FileStream(path, FileMode.Create));
+            br.Write(memorystream.GetBuffer());
+        }
+}
